@@ -938,6 +938,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7445906214766671480, guid: 737a5513fbd105346a2e15111d4e9c93, type: 3}
+      propertyPath: m_Size.x
+      value: 0.99688363
+      objectReference: {fileID: 0}
+    - target: {fileID: 7445906214766671480, guid: 737a5513fbd105346a2e15111d4e9c93, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.0015581846
+      objectReference: {fileID: 0}
     - target: {fileID: 7445906214766671484, guid: 737a5513fbd105346a2e15111d4e9c93, type: 3}
       propertyPath: m_Name
       value: Ground_small_2
@@ -995,6 +1003,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1094032526}
     m_Modifications:
+    - target: {fileID: 3527084429171110600, guid: fd43a58ffef30804cb2c23d869556f8b, type: 3}
+      propertyPath: m_text
+      value: '
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 3527084429171110602, guid: fd43a58ffef30804cb2c23d869556f8b, type: 3}
       propertyPath: m_Name
       value: Text (TMP)
